@@ -1,0 +1,25 @@
+
+body{
+    font-family: cursive;
+}
+
+.container{
+    border: 1px solid black;
+    width: 95%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hex-colors{
+    border: 1px soild black;
+
+    text-align: center;
+
+}
+
+.hex-colors h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
